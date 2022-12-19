@@ -1,4 +1,4 @@
-Rishabh Jain
+Wiki-Graph
 
 INSTRUCTIONS TO RUN:
 1. Keep the dump file 'enwiki-latest-pages-articles.xml.bz2' in the data folder
